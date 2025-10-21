@@ -15,7 +15,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - <font face="Times New Roman">Q. Wu, Y. Li*, **G. Zhu**, B. Mei, J. Xu, and M. Xu, "Prediction-Aware Adaptive Task Assignment for Spatial Crowdsourcing,"</font> <font face="Times New Roman">*IEEE Transactions on Mobile Computing*</font> <font face="Times New Roman">(IEEE TMC), 2024. [[pdf]](#) (Rank: CCF-A)</font>
 - <font face="楷体">彭健, **朱广磊**, 吴庆顺, 李亚飞*, 贺硕, 靳远远, 徐明亮. "基于蒙特卡洛树搜索的舰载机保障作业调度方法",</font> <font face="楷体">*航空学报*</font><font face="楷体">, 2025. [[pdf]](#) (航空航天高质量期刊分级目录 T1 期刊)</font>
 - <font face="楷体">王慧雅, 吴庆顺, **朱广磊**, 张晓, 靳远远, 李亚飞*, 徐明亮. "舰载机飞行计划的分层式人机协同决策方法".</font> <font face="楷体">*中国舰船研究*</font><font face="楷体">, 2025. [[pdf]](#) (航海领域高质量期刊分级目录 T1 期刊)</font>
-- B. Mei, Y. Li*, W. Chen, L. Luan, G. Zhu, Y. Jin, J. Xu. “Catcher: A Cache Analysis System for Top-𝑘 Pub/Sub Service,’’ In Proc. of the VLDB Endowment (PVLDB), 2024. [[pdf]] (Rank: CCF-B)
+- B. Mei, Y. Li*, W. Chen, L. Luan, G. Zhu, Y. Jin, J. Xu. “Catcher: A Cache Analysis System for Top-𝑘 Pub/Sub Service,’’ In Proc. of the VLDB Endowment (PVLDB), 2024. [[pdf]](#) (Rank: CCF-B)
 - Q. Wu, Y. Li*, H. Li, D. Zhang, G. Zhu, “AMRAS: A Visual Analysis System for Spatial Crowdsourcing,’’ In Proc. of the VLDB Endowment (PVLDB), 2022. [[pdf]](#) (Rank: CCF-B)
 
 
