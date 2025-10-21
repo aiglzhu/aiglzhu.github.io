@@ -14,7 +14,7 @@ Research Interests
 <div class="image-grid" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center; margin: 30px 0;">
   <div class="image-item">
     <a href="https://www.businessnewsdaily.com/5386-location-based-services.html" target="_blank">
-      <img src="/images/local_based.png" alt="Location-based Services" style="width: 100%; max-width: 120px; height: auto;">
+      <img src="/images/local_based.png" alt="Location-based Services" style="width: 100%; max-width: 180px; height: auto;">
     </a>
     <p style="margin-top: 10px;">
       <a href="https://www.businessnewsdaily.com/5386-location-based-services.html" target="_blank">Location-based Services</a>
@@ -23,7 +23,7 @@ Research Interests
   
   <div class="image-item">
     <a href="https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces" target="_blank">
-      <img src="/images/human.png" alt="Human-Machine Intelligence" style="width: 100%; max-width: 120px; height: auto;">
+      <img src="/images/human.png" alt="Human-Machine Intelligence" style="width: 100%; max-width: 180px; height: auto;">
     </a>
     <p style="margin-top: 10px;">
       <a href="https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces" target="_blank">Human-Machine Intelligence</a>
@@ -32,7 +32,7 @@ Research Interests
   
   <div class="image-item">
     <a href="https://isl-group.eu/en/logistic-solutions/intelligent-logistic-solutions/" target="_blank">
-      <img src="/images/smart_log.png" alt="Visualization" style="width: 100%; max-width: 120px; height: auto;">
+      <img src="/images/smart_log.png" alt="Visualization" style="width: 100%; max-width: 180px; height: auto;">
     </a>
     <p style="margin-top: 10px;">
       <a href="https://isl-group.eu/en/logistic-solutions/intelligent-logistic-solutions/" target="_blank">Smart Logistics</a>
@@ -41,7 +41,7 @@ Research Interests
   
   <div class="image-item">
     <a href="https://www.appliedai.de/en/solutions-services/ai-individual-solutions/large-language-models/" target="_blank">
-      <img src="/images/wuren.png" alt="Applied AI & LLM" style="width: 100%; max-width: 120px; height: auto;">
+      <img src="/images/wuren.png" alt="Applied AI & LLM" style="width: 100%; max-width: 180px; height: auto;">
     </a>
     <p style="margin-top: 10px;">
       <a href="https://www.appliedai.de/en/solutions-services/ai-individual-solutions/large-language-models/" target="_blank">Applied AI & LLM</a>
