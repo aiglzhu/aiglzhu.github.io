@@ -12,16 +12,16 @@ main:
     url: /me/
 
     
-  - title: "PUBLICATIONS"
+  - title: "Publications"
     url: /publications/
 
-  - title: "TALKS"
+  - title: "Funded Projects"
     url: /talks/    
 
-  - title: "TEACHING"
+  - title: "Teaching"
     url: /teaching/    
     
-  - title: "PROFESSIONAL SERVICES"
+  - title: "Professional Services"
     url: /portfolio/
         
   # - title: "Blog Posts"
