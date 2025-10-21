@@ -53,30 +53,20 @@ Research Interests
 
 News and Opportunities
 ======
-<div class="academic-opportunities" style="background: #fff; border-radius: 10px; padding: 40px; margin: 40px 0; box-shadow: 0 5px 25px rgba(0,0,0,0.08);">
-  <h2 style="text-align: center; color: #2c3e50; margin-bottom: 40px; border-bottom: 2px solid #3498db; padding-bottom: 15px;">Research Opportunities</h2>
-  
-  <div style="display: flex; align-items: flex-start; margin-bottom: 35px;">
-    <div style="background: #3498db; color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 20px; flex-shrink: 0;">
-      <span style="font-weight: bold;">1</span>
-    </div>
-    <div>
-      <h3 style="color: #2c3e50; margin-top: 0;">Undergraduate Research Positions</h3>
-      <p style="color: #555; line-height: 1.7; margin-bottom: 0;">
-        I'm looking for motivated, thoughtful undergraduates who are interested in applying mathematical and machine learning tools to solve big data and visualization problems.
-      </p>
-    </div>
+<div class="opportunities-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 40px 0;">
+  <div style="background: #f8f9fa; padding: 30px; border-radius: 12px; border: 1px solid #e9ecef; text-align: center; transition: transform 0.3s ease;">
+    <div style="font-size: 3em; margin-bottom: 20px;">🎓</div>
+    <h3 style="color: #2c3e50; margin-bottom: 15px;">Undergraduate Researchers</h3>
+    <p style="color: #555; line-height: 1.6;">
+      I'm looking for motivated, thoughtful undergraduates who are interested in applying mathematical and machine learning tools to solve big data and visualization problems.
+    </p>
   </div>
 
-  <div style="display: flex; align-items: flex-start;">
-    <div style="background: #e74c3c; color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 20px; flex-shrink: 0;">
-      <span style="font-weight: bold;">2</span>
-    </div>
-    <div>
-      <h3 style="color: #2c3e50; margin-top: 0;">Research Collaboration</h3>
-      <p style="color: #555; line-height: 1.7; margin-bottom: 0;">
-        I'm looking for like-minded collaborators. If you're interested in working with me on interesting big data/AI-related projects in Zhengzhou, please email me your resume.
-      </p>
-    </div>
+  <div style="background: #f8f9fa; padding: 30px; border-radius: 12px; border: 1px solid #e9ecef; text-align: center; transition: transform 0.3s ease;">
+    <div style="font-size: 3em; margin-bottom: 20px;">🤝</div>
+    <h3 style="color: #2c3e50; margin-bottom: 15px;">Research Collaborators</h3>
+    <p style="color: #555; line-height: 1.6;">
+      I'm looking for like-minded collaborators. If you're interested in working with me on interesting big data/AI-related projects in Zhengzhou, please email me your resume.
+    </p>
   </div>
 </div>
