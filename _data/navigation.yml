@@ -9,7 +9,7 @@
 
 main:
   - title: "More About Me"
-    url: /me/
+    url: /markdown/
 
     
   - title: "Publications"
