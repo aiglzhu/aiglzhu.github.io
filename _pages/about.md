@@ -11,12 +11,44 @@ I am now a teacher in the School of Computer Science and Artificial Intelligence
 
 Research Interests
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<div class="image-grid" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center; margin: 30px 0;">
+  <div class="image-item">
+    <a href="https://www.businessnewsdaily.com/5386-location-based-services.html" target="_blank">
+      <img src="/images/local_based.png" alt="Location-based Services" style="width: 100%; max-width: 120px; height: auto;">
+    </a>
+    <p style="margin-top: 10px;">
+      <a href="https://www.businessnewsdaily.com/5386-location-based-services.html" target="_blank">Location-based Services</a>
+    </p>
+  </div>
+  
+  <div class="image-item">
+    <a href="https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces" target="_blank">
+      <img src="/images/human.png" alt="Human-Machine Intelligence" style="width: 100%; max-width: 120px; height: auto;">
+    </a>
+    <p style="margin-top: 10px;">
+      <a href="https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces" target="_blank">Human-Machine Intelligence</a>
+    </p>
+  </div>
+  
+  <div class="image-item">
+    <a href="https://isl-group.eu/en/logistic-solutions/intelligent-logistic-solutions/" target="_blank">
+      <img src="/images/smart_log.png" alt="Visualization" style="width: 100%; max-width: 120px; height: auto;">
+    </a>
+    <p style="margin-top: 10px;">
+      <a href="https://isl-group.eu/en/logistic-solutions/intelligent-logistic-solutions/" target="_blank">Smart Logistics</a>
+    </p>
+  </div>
+  
+  <div class="image-item">
+    <a href="https://www.appliedai.de/en/solutions-services/ai-individual-solutions/large-language-models/" target="_blank">
+      <img src="/images/wuren.png" alt="Applied AI & LLM" style="width: 100%; max-width: 120px; height: auto;">
+    </a>
+    <p style="margin-top: 10px;">
+      <a href="https://www.appliedai.de/en/solutions-services/ai-individual-solutions/large-language-models/" target="_blank">Applied AI & LLM</a>
+    </p>
+  </div>
+</div>
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
 Getting started
 ======
