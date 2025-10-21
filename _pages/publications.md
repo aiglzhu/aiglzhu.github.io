@@ -20,5 +20,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conference Papers
 
-- <font face="Times New Roman">Q. Wu, Y. Li, L. Gao, <b>G. Zhu</b>, L. Chen, M. Xu. "High-Fidelity Task Assignment in Spatial Crowdsourcing via Implicit Human Feedback," <i>In Proc. of the IEEE International Conference on Data Engineering (IEEE ICDE)</i>, 2026. [[pdf]](#) (Rank: CCF-A)</font>
+- <font face="Times New Roman">Q. Wu, Y. Li*, L. Gao, <b>G. Zhu</b>, L. Chen, M. Xu. "High-Fidelity Task Assignment in Spatial Crowdsourcing via Implicit Human Feedback," <i>In Proc. of the IEEE International Conference on Data Engineering (IEEE ICDE)</i>, 2026. [[pdf]](#) (Rank: CCF-A)</font>
 - <font face="Times New Roman">W. Chen, Y. Li*, B. Mei, <b>G. Zhu</b>, J. Wu, M. Xu. "Credit Assignment and Fine-Tuning Enhanced Reinforcement Learning for Collaborative Spatial Crowdsourcing," <i>In Proc. of the 34th International Joint Conference on Artificial Intelligence (IJCAI)</i>, 2025. [[pdf]](#) (Rank: CCF-A)</font>
