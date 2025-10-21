@@ -8,7 +8,7 @@ redirect_from:
 
 {% include toc %}
 
-## About Me
+## More About Me
 
 ## 🎓 Academic & Work Experiences
 
