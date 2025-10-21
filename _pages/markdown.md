@@ -98,26 +98,10 @@ Waiting...
 
 ## 🔬 Research Interests
 
-<div class="research-interests" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;">
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #3498db;">
-    <strong>Spatial Crowdsourcing</strong>
-  </div>
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #e74c3c;">
-    <strong>Big Data Management and Analysis</strong>
-  </div>
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #9b59b6;">
-    <strong>Applied AI & LLM</strong>
-  </div>
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #f39c12;">
-    <strong>Artificial Intelligence</strong>
-  </div>
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #1abc9c;">
-    <strong>Human-Machine Intelligence</strong>
-  </div>
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #d35400;">
-    <strong>Real-time Scheduling</strong>
-  </div>
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #27ae60;">
-    <strong>Visualization</strong>
-  </div>
-</div>
+- Spatial Crowdsourcing
+- Big Data Management and Analysis
+- Applied AI & LLM
+- Artificial Intelligence
+- Human-Machine Intelligence
+- Real-time Scheduling
+- Visualization
