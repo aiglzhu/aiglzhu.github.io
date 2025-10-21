@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/zgl.jpg"
+  avatar           : "https://aiglzhu.github.io/images/zgl.jpg"
   name             : "Guanglei Zhu"
   pronouns         : # example: "she/her"  
   bio              : "A Ph.D. graduated from ZZU"
