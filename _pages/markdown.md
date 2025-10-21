@@ -104,10 +104,8 @@ Waiting...
 </style>
 
 <div class="hybrid-timeline">
-  <!-- 时间轴连接线 -->
   <div class="timeline-connector"></div>
 
-  <!-- 博士经历 -->
   <div class="timeline-item">
     <div style="display: flex; align-items: flex-start;">
       <div class="timeline-node">
@@ -125,7 +123,6 @@ Waiting...
     </div>
   </div>
 
-  <!-- 硕士经历 -->
   <div class="timeline-item">
     <div style="display: flex; align-items: flex-start;">
       <div class="timeline-node">
@@ -143,7 +140,6 @@ Waiting...
     </div>
   </div>
 
-  <!-- 访学经历 -->
   <div class="timeline-item">
     <div style="display: flex; align-items: flex-start;">
       <div class="timeline-node">
@@ -161,7 +157,6 @@ Waiting...
     </div>
   </div>
 
-  <!-- 本科经历 -->
   <div class="timeline-item">
     <div style="display: flex; align-items: flex-start;">
       <div class="timeline-node">
@@ -180,37 +175,28 @@ Waiting...
   </div>
 </div>
 
-
 ## 🔬 Research Interests
 
 <div class="research-interests" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;">
-
-<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #3498db;">
-<strong>Spatial Crowdsourcing</strong>
-</div>
-
-<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #e74c3c;">
-<strong>Big Data Management and Analysis</strong>
-</div>
-
-<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #9b59b6;">
-<strong>Applied AI & LLM</strong>
-</div>
-
-<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #f39c12;">
-<strong>Artificial Intelligence</strong>
-</div>
-
-<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #1abc9c;">
-<strong>Human-Machine Intelligence</strong>
-</div>
-
-<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #d35400;">
-<strong>Real-time Scheduling</strong>
-</div>
-
-<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #27ae60;">
-<strong>Visualization</strong>
-</div>
-
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #3498db;">
+    <strong>Spatial Crowdsourcing</strong>
+  </div>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #e74c3c;">
+    <strong>Big Data Management and Analysis</strong>
+  </div>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #9b59b6;">
+    <strong>Applied AI & LLM</strong>
+  </div>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #f39c12;">
+    <strong>Artificial Intelligence</strong>
+  </div>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #1abc9c;">
+    <strong>Human-Machine Intelligence</strong>
+  </div>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #d35400;">
+    <strong>Real-time Scheduling</strong>
+  </div>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #27ae60;">
+    <strong>Visualization</strong>
+  </div>
 </div>
