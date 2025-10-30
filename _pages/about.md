@@ -53,99 +53,172 @@ I am now a Ph.D. in the School of Computer Science and Artificial Intelligence, 
 News
 ======
 
-<!-- <div class="clean-opportunities" style="margin: 30px 0;">
-  <div style="border-left: 3px solid #3498db; border-right: 3px solid #3498db; padding: 0 15px; margin-bottom: 20px;">
-    <h4 style="margin: 0 0 8px 0; color: #2c3e50;">🔥 November 2025-End of doctoral studies</h4>
-    <p style="margin: 0; color: #555; line-height: 1.5;">
-     My doctoral journey is drawing to a close, marking not an end, but a magnificent prelude to the next chapter. I look forward to a future brimming with promise, continued academic fulfillment, and a steady stream of meaningful research. May I never lose the curiosity that brought me here, and may my work contribute a verse, however small, to the great symphony of human knowledge. Here's to embracing the challenges and discoveries that lie ahead.
-    </p>
-  </div>
+<style>
+.research-timeline {
+    max-width: 100%;
+    margin: 30px 0;
+}
 
-<div class="clean-opportunities" style="margin: 30px 0;">
-  <div style="border-left: 3px solid #3498db; border-right: 3px solid #3498db; padding: 0 15px; margin-bottom: 20px;">
-    <h4 style="margin: 0 0 8px 0; color: #2c3e50;">🔥 Octuber 2025-My Second CCF-A Journal Paper</h4>
-    <p style="margin: 0; color: #555; line-height: 1.5;">
-     My Second CCF-A journal paper, named "Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach", has been accepted by IEEE Transactions on Mobile Computing (IEEE TMC). Congratulations!!!
-    </p>
-  </div>
+.timeline-scroll {
+    max-height: 400px;
+    overflow-y: auto;
+    padding-right: 10px;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 15px;
+    background: #f6f8fa;
+}
 
-  <div style="border-left: 3px solid #e74c3c; border-right: 3px solid #e74c3c; padding: 0 15px; margin-bottom: 20px;">
-    <h4 style="margin: 0 0 8px 0; color: #2c3e50;">🔥 June 2025-My Firt CCF-A Journal Paper</h4>
-    <p style="margin: 0; color: #555; line-height: 1.5;">
-      My first CCF-A journal paper, named "Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services", has been accepted by Science China Information Sciences (SCIS). Congratulations!!!
-    </p>
-  </div>
-</div> -->
+/* 自定义滚动条 */
+.timeline-scroll::-webkit-scrollbar {
+    width: 6px;
+}
 
- <div class="timeline-scroll">
-                <div class="timeline-item">
-                    <h4><span class="fire">🔥</span> November 2025 - 博士研究完成</h4>
-                    <p>My doctoral journey is drawing to a close, marking not an end, but a magnificent prelude to the next chapter. I look forward to a future brimming with promise, continued academic fulfillment, and a steady stream of meaningful research. May I never lose the curiosity that brought me here, and may my work contribute a verse, however small, to the great symphony of human knowledge. Here's to embracing the challenges and discoveries that lie ahead.</p>
-                </div>
-                
-                <div class="timeline-item">
-                    <h4><span class="fire">🔥</span> October 2025 - 第二篇CCF-A期刊论文</h4>
-                    <p>My Second CCF-A journal paper, named <strong>"Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach"</strong>, has been accepted by <span class="journal-name">IEEE Transactions on Mobile Computing (IEEE TMC)</span>.</p>
-                    <span class="congrats">祝贺!</span>
-                </div>
-                
-                <div class="timeline-item accepted">
-                    <h4><span class="fire">🔥</span> June 2025 - 第一篇CCF-A期刊论文</h4>
-                    <p>My first CCF-A journal paper, named <strong>"Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services"</strong>, has been accepted by <span class="journal-name">Science China Information Sciences (SCIS)</span>.</p>
-                    <span class="congrats">祝贺!</span>
-                </div>
-                
-                <div class="timeline-item">
-                    <h4><span class="fire">🔥</span> March 2025 - 国际会议报告</h4>
-                    <p>Presented my research on "Dynamic Task Allocation in Mobile Crowdsensing" at the International Conference on Mobile Systems and Applications (ICMSA) in Berlin, Germany. Received positive feedback from leading researchers in the field.</p>
-                </div>
-                
-                <div class="timeline-item">
-                    <h4><span class="fire">🔥</span> December 2024 - 研究提案通过</h4>
-                    <p>Successfully defended my research proposal, receiving approval from the doctoral committee to proceed with the proposed methodology and experimental design for the remainder of my doctoral studies.</p>
-                </div>
-                
-                <div class="timeline-item">
-                    <h4><span class="fire">🔥</span> August 2024 - 第一篇会议论文</h4>
-                    <p>My first conference paper, titled "Preliminary Analysis of Task Allocation in Spatial Crowdsourcing", was accepted at the National Conference on Distributed Computing Systems, marking my first peer-reviewed publication.</p>
-                </div>
-            </div>
+.timeline-scroll::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 3px;
+}
+
+.timeline-scroll::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 3px;
+}
+
+.timeline-scroll::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
+}
+
+.timeline-item {
+    border-left: 3px solid #3498db;
+    padding: 0 15px 20px 15px;
+    margin-bottom: 20px;
+    position: relative;
+    background: white;
+    border-radius: 6px;
+    padding: 15px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.timeline-item:last-child {
+    margin-bottom: 0;
+    padding-bottom: 15px;
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #3498db;
+    top: 18px;
+    left: -6.5px;
+}
+
+.timeline-item.accepted::before {
+    background: #e74c3c;
+}
+
+.timeline-item h4 {
+    margin: 0 0 10px 0;
+    color: #2c3e50;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+}
+
+.timeline-item h4 .fire {
+    color: #e74c3c;
+    margin-right: 8px;
+    font-size: 1rem;
+}
+
+.timeline-item p {
+    margin: 0;
+    color: #555;
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+.journal-name {
+    color: #3498db;
+    font-weight: 600;
+}
+
+.congrats {
+    color: #e74c3c;
+    font-weight: bold;
+    margin-top: 8px;
+    display: inline-block;
+    font-size: 0.9rem;
+}
+
+.scroll-hint {
+    text-align: center;
+    color: #7f8c8d;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    transition: opacity 0.3s ease;
+}
+</style>
+
+<div class="research-timeline">
+    <div class="timeline-scroll" id="timelineScroll">
+        <div class="timeline-item">
+            <h4><span class="fire">🔥</span> November 2025 - End of Doctoral Studies</h4>
+            <p>My doctoral journey is drawing to a close, marking not an end, but a magnificent prelude to the next chapter. I look forward to a future brimming with promise, continued academic fulfillment, and a steady stream of meaningful research.</p>
         </div>
         
-        <div class="footer">
-            <p>持续更新中 · 更多研究成果即将发布</p>
+        <div class="timeline-item">
+            <h4><span class="fire">🔥</span> October 2025 - Second CCF-A Journal Paper</h4>
+            <p>My Second CCF-A journal paper, named <strong>"Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach"</strong>, has been accepted by <span class="journal-name">IEEE Transactions on Mobile Computing (IEEE TMC)</span>.</p>
+            <span class="congrats">Congratulations!</span>
+        </div>
+        
+        <div class="timeline-item accepted">
+            <h4><span class="fire">🔥</span> June 2025 - First CCF-A Journal Paper</h4>
+            <p>My first CCF-A journal paper, named <strong>"Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services"</strong>, has been accepted by <span class="journal-name">Science China Information Sciences (SCIS)</span>.</p>
+            <span class="congrats">Congratulations!</span>
+        </div>
+        
+        <div class="timeline-item">
+            <h4><span class="fire">🔥</span> March 2025 - International Conference Presentation</h4>
+            <p>Presented my research on "Dynamic Task Allocation in Mobile Crowdsensing" at the International Conference on Mobile Systems and Applications (ICMSA) in Berlin, Germany.</p>
+        </div>
+        
+        <div class="timeline-item">
+            <h4><span class="fire">🔥</span> December 2024 - Research Proposal Defense</h4>
+            <p>Successfully defended my research proposal, receiving approval from the doctoral committee to proceed with the proposed methodology and experimental design.</p>
+        </div>
+        
+        <div class="timeline-item">
+            <h4><span class="fire">🔥</span> August 2024 - First Conference Paper</h4>
+            <p>My first conference paper, titled "Preliminary Analysis of Task Allocation in Spatial Crowdsourcing", was accepted at the National Conference on Distributed Computing Systems.</p>
         </div>
     </div>
+    <div class="scroll-hint" id="scrollHint">↓ Scroll for more news</div>
+</div>
 
-    <script>
-        // 添加滚动提示
-        document.addEventListener('DOMContentLoaded', function() {
-            const timelineScroll = document.querySelector('.timeline-scroll');
-            
-            // 检查内容是否超出容器高度
-            if (timelineScroll.scrollHeight > timelineScroll.clientHeight) {
-                // 添加滚动提示
-                const scrollHint = document.createElement('div');
-                scrollHint.style.textAlign = 'center';
-                scrollHint.style.color = '#7f8c8d';
-                scrollHint.style.fontSize = '0.9rem';
-                scrollHint.style.marginTop = '10px';
-                scrollHint.innerHTML = '↓ 向下滚动查看更多内容';
-                
-                timelineScroll.parentNode.insertBefore(scrollHint, timelineScroll.nextSibling);
-                
-                // 滚动时隐藏提示
-                timelineScroll.addEventListener('scroll', function() {
-                    if (timelineScroll.scrollTop > 10) {
-                        scrollHint.style.opacity = '0';
-                        scrollHint.style.transition = 'opacity 0.3s ease';
-                    } else {
-                        scrollHint.style.opacity = '1';
-                    }
-                });
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const timelineScroll = document.getElementById('timelineScroll');
+    const scrollHint = document.getElementById('scrollHint');
+    
+    // 检查内容是否超出容器高度
+    if (timelineScroll.scrollHeight > timelineScroll.clientHeight) {
+        // 滚动时隐藏提示
+        timelineScroll.addEventListener('scroll', function() {
+            if (timelineScroll.scrollTop > 10) {
+                scrollHint.style.opacity = '0';
+            } else {
+                scrollHint.style.opacity = '1';
             }
         });
-    </script>
+    } else {
+        scrollHint.style.display = 'none';
+    }
+});
+</script>
 
 
 Seeking Cooperation
