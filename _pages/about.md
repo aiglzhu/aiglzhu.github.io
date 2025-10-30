@@ -178,8 +178,8 @@ News
         
         <div class="timeline-item accepted">
             <h4><span class="fire">🔥</span> June 2025 - First CCF-A Journal Paper</h4>
-            <p>My first CCF-A journal paper, named <strong>"Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services"</strong>, has been accepted by <span class="journal-name">Science China Information Sciences (SCIS)</span>.</p>
-            <span class="congrats">Congratulations!</span>
+            <p>My first CCF-A journal paper, named <strong>"Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services"</strong>, has been accepted by <span class="journal-name">Science China Information Sciences (SCIS)</span>.<span class="congrats">Congratulations!</span></p>
+            <p>我的第一篇 CCF-A 期刊论文，题为《Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services》，已被《Science China Information Sciences》接收。恭喜！</p>
         </div>
         
         <div class="timeline-item">
