@@ -53,7 +53,7 @@ I am now a Ph.D. in the School of Computer Science and Artificial Intelligence, 
 News
 ======
 
-<div class="clean-opportunities" style="margin: 30px 0;">
+<!-- <div class="clean-opportunities" style="margin: 30px 0;">
   <div style="border-left: 3px solid #3498db; border-right: 3px solid #3498db; padding: 0 15px; margin-bottom: 20px;">
     <h4 style="margin: 0 0 8px 0; color: #2c3e50;">🔥 November 2025-End of doctoral studies</h4>
     <p style="margin: 0; color: #555; line-height: 1.5;">
@@ -75,7 +75,77 @@ News
       My first CCF-A journal paper, named "Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services", has been accepted by Science China Information Sciences (SCIS). Congratulations!!!
     </p>
   </div>
-</div>
+</div> -->
+
+ <div class="timeline-scroll">
+                <div class="timeline-item">
+                    <h4><span class="fire">🔥</span> November 2025 - 博士研究完成</h4>
+                    <p>My doctoral journey is drawing to a close, marking not an end, but a magnificent prelude to the next chapter. I look forward to a future brimming with promise, continued academic fulfillment, and a steady stream of meaningful research. May I never lose the curiosity that brought me here, and may my work contribute a verse, however small, to the great symphony of human knowledge. Here's to embracing the challenges and discoveries that lie ahead.</p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4><span class="fire">🔥</span> October 2025 - 第二篇CCF-A期刊论文</h4>
+                    <p>My Second CCF-A journal paper, named <strong>"Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach"</strong>, has been accepted by <span class="journal-name">IEEE Transactions on Mobile Computing (IEEE TMC)</span>.</p>
+                    <span class="congrats">祝贺!</span>
+                </div>
+                
+                <div class="timeline-item accepted">
+                    <h4><span class="fire">🔥</span> June 2025 - 第一篇CCF-A期刊论文</h4>
+                    <p>My first CCF-A journal paper, named <strong>"Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services"</strong>, has been accepted by <span class="journal-name">Science China Information Sciences (SCIS)</span>.</p>
+                    <span class="congrats">祝贺!</span>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4><span class="fire">🔥</span> March 2025 - 国际会议报告</h4>
+                    <p>Presented my research on "Dynamic Task Allocation in Mobile Crowdsensing" at the International Conference on Mobile Systems and Applications (ICMSA) in Berlin, Germany. Received positive feedback from leading researchers in the field.</p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4><span class="fire">🔥</span> December 2024 - 研究提案通过</h4>
+                    <p>Successfully defended my research proposal, receiving approval from the doctoral committee to proceed with the proposed methodology and experimental design for the remainder of my doctoral studies.</p>
+                </div>
+                
+                <div class="timeline-item">
+                    <h4><span class="fire">🔥</span> August 2024 - 第一篇会议论文</h4>
+                    <p>My first conference paper, titled "Preliminary Analysis of Task Allocation in Spatial Crowdsourcing", was accepted at the National Conference on Distributed Computing Systems, marking my first peer-reviewed publication.</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>持续更新中 · 更多研究成果即将发布</p>
+        </div>
+    </div>
+
+    <script>
+        // 添加滚动提示
+        document.addEventListener('DOMContentLoaded', function() {
+            const timelineScroll = document.querySelector('.timeline-scroll');
+            
+            // 检查内容是否超出容器高度
+            if (timelineScroll.scrollHeight > timelineScroll.clientHeight) {
+                // 添加滚动提示
+                const scrollHint = document.createElement('div');
+                scrollHint.style.textAlign = 'center';
+                scrollHint.style.color = '#7f8c8d';
+                scrollHint.style.fontSize = '0.9rem';
+                scrollHint.style.marginTop = '10px';
+                scrollHint.innerHTML = '↓ 向下滚动查看更多内容';
+                
+                timelineScroll.parentNode.insertBefore(scrollHint, timelineScroll.nextSibling);
+                
+                // 滚动时隐藏提示
+                timelineScroll.addEventListener('scroll', function() {
+                    if (timelineScroll.scrollTop > 10) {
+                        scrollHint.style.opacity = '0';
+                        scrollHint.style.transition = 'opacity 0.3s ease';
+                    } else {
+                        scrollHint.style.opacity = '1';
+                    }
+                });
+            }
+        });
+    </script>
 
 
 Seeking Cooperation
