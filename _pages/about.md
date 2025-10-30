@@ -172,20 +172,16 @@ News
         
         <div class="timeline-item">
             <h4><span class="fire">🔥</span> October 2025 - Second CCF-A Journal Paper</h4>
-            <p>My Second CCF-A journal paper, named <strong>"Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach"</strong>, has been accepted by <span class="journal-name">IEEE Transactions on Mobile Computing (IEEE TMC)</span>.</p>
-            <span class="congrats">Congratulations!</span>
+            <p>My Second CCF-A journal paper, named <strong>"Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach"</strong>, has been accepted by <span class="journal-name">IEEE Transactions on Mobile Computing (IEEE TMC)</span>.<span class="congrats">Congratulations!</span></p>
+            <p>我的第二篇 CCF-A 期刊论文，题为《Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach》，已被《IEEE Transactions on Mobile Computing》接收。好的开始！！！恭喜！</p>
         </div>
         
         <div class="timeline-item accepted">
             <h4><span class="fire">🔥</span> June 2025 - First CCF-A Journal Paper</h4>
-            <p>My first CCF-A journal paper, named <strong>"Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services"</strong>, has been accepted by <span class="journal-name">Science China Information Sciences (SCIS)</span>.<span class="congrats">Congratulations!</span></p>
-            <p>我的第一篇 CCF-A 期刊论文，题为《Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services》，已被《Science China Information Sciences》接收。恭喜！</p>
+            <p>My first CCF-A journal paper, named <strong>"Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services"</strong>, has been accepted by <span class="journal-name">Science China Information Sciences (SCIS). A good starting!</span>.<span class="congrats">Congratulations!</span></p>
+            <p>我的第一篇 CCF-A 期刊论文，题为《Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services》，已被《Science China Information Sciences》接收。好的开始！！！恭喜！</p>
         </div>
-        
-        <div class="timeline-item">
-            <h4><span class="fire">🔥</span> September 2021 - Opening of Doctory Studing</h4>
-            <p>My doctoral journey has begun! I need to work hard and strive to graduate normally in four years without delay.</p>
-        </div>
+      
         
         
 
