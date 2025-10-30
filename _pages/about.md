@@ -182,19 +182,12 @@ News
         </div>
         
         <div class="timeline-item">
-            <h4><span class="fire">🔥</span> March 2025 - International Conference Presentation</h4>
-            <p>Presented my research on "Dynamic Task Allocation in Mobile Crowdsensing" at the International Conference on Mobile Systems and Applications (ICMSA) in Berlin, Germany.</p>
+            <h4><span class="fire">🔥</span> September 2021 - Opening of Doctory Studing</h4>
+            <p>My doctoral journey has begun! I need to work hard and strive to graduate normally in four years without delay.</p>
         </div>
         
-        <div class="timeline-item">
-            <h4><span class="fire">🔥</span> December 2024 - Research Proposal Defense</h4>
-            <p>Successfully defended my research proposal, receiving approval from the doctoral committee to proceed with the proposed methodology and experimental design.</p>
-        </div>
         
-        <div class="timeline-item">
-            <h4><span class="fire">🔥</span> August 2024 - First Conference Paper</h4>
-            <p>My first conference paper, titled "Preliminary Analysis of Task Allocation in Spatial Crowdsourcing", was accepted at the National Conference on Distributed Computing Systems.</p>
-        </div>
+
     </div>
     <div class="scroll-hint" id="scrollHint">↓ Scroll for more news</div>
 </div>
