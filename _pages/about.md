@@ -167,6 +167,7 @@ News
         <div class="timeline-item">
             <h4><span class="fire">🔥</span> November 2025 - End of Doctoral Studies</h4>
             <p>My doctoral journey is drawing to a close, marking not an end, but a magnificent prelude to the next chapter. I look forward to a future brimming with promise, continued academic fulfillment, and a steady stream of meaningful research.</p>
+          <p>博士旅程的终点，亦是新征程的起点。愿前路光明，学术之树常青。此后岁月，但问耕耘，静待每一株思想的幼苗，长成它应有的模样。</p>
         </div>
         
         <div class="timeline-item">
