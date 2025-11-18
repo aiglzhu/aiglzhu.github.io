@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brief Biography"
+title: "Brief Biography✨ ✨ ✨"
 author_profile: true
 redirect_from: 
   - /about/
@@ -50,7 +50,7 @@ I am now a Ph.D. in the School of Computer Science and Artificial Intelligence, 
 
 
 
-News
+News🎉 🎉 🎉
 ======
 
 <style>
@@ -211,7 +211,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
-Seeking Cooperation
+Seeking Cooperation🌐 🌐 🌐
 ======
 <div class="clean-opportunities" style="margin: 30px 0;">
   <div style="border-left: 3px solid #3498db; padding: 0 0 0 15px; margin-bottom: 20px;">
