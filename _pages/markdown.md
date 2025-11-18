@@ -41,12 +41,16 @@ redirect_from:
   </div>
 
 <div class="clean-opportunities" style="margin: 30px 0;">
-  <div style="border-left: 3px solid #3498db; padding: 0 0 0 15px; margin-bottom: 20px;">
-    <h4 style="margin: 0 0 8px 0; color: #2c3e50;">🎓 2021.07 - 2021.08, Exchange</h4>
-    <p style="margin: 0; color: #555; line-height: 1.5;">
-      University of Oulu, Faculty of Information Technology and Electrical Engineering, Computer Technology, Visiting Scholar
+  <div style="border-left: 3px solid #3498db; padding-left: 15px; margin-bottom: 20px;">
+    <p style="margin: 0; color: #2c3e50; font-weight: bold; line-height: 1.6;">
+      🎓 2021.07 - 2021.08, Exchange — 
+      <span style="color: #555; font-weight: normal;">
+        University of Oulu, Faculty of Information Technology and Electrical Engineering, Computer Technology, Visiting Scholar
+      </span>
     </p>
   </div>
+</div>
+
 
   <div class="clean-opportunities" style="margin: 30px 0;">
   <div style="border-left: 3px solid #3498db; padding: 0 0 0 15px; margin-bottom: 20px;">
