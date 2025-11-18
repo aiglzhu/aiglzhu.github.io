@@ -9,4 +9,4 @@ author_profile: true
 waiting...
 
 ### 参与项目
-- <font face="Times New Roman"><b>G. Zhu</b>, Y. Li*, K. Wang, L. Chen, and M. Xu, "Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services,"</font> <font face="Times New Roman"><i>Science China Information Sciences</i></font> <font face="Times New Roman">(SCIS), 2025. (Rank: CCF-A)</font>
+- <font face="楷体">国家自然科学基金杰青项目.</font> <font face="楷体"><i>航空母舰航保作业智能指挥决策</i></font><font face="楷体">, 2023. (主持人徐明亮杰青)</font>
