@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+{% include toc %}
 Note that: * means "Corresponding Author", ## means "The authors contributed equally". You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/?hl=zh-CN).
 
 ## Journal Papers
