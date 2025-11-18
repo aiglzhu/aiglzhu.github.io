@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Professional Services"
 permalink: /portfolio/
 author_profile: true
 ---
