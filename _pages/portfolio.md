@@ -3,6 +3,7 @@ layout: archive
 permalink: /portfolio/
 author_profile: true
 ---
+{% include toc %}
 ## Conference/Journal Referee
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Multimedia (TMM)
