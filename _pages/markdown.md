@@ -11,14 +11,7 @@ redirect_from:
 ## Academic & Work Experiences
 
 ### 🤝 Work experience
-
- <div class="clean-opportunities" style="margin: 30px 0;">
-  <div style="border-left: 3px solid #3498db; padding: 0 0 0 15px; margin-bottom: 20px;">
-    <h4 style="margin: 0 0 8px 0; color: #2c3e50;">🤝 2025.12 - present, Associate Professor (Three-Year Contract)</h4>
-    <p style="margin: 0; color: #555; line-height: 1.5;">
-      Zhengzhou University, School of Computer Science and Artificial Intelligence, Computer Science and Artificial Intelligence
-    </p>
-  </div>
+- **2025.12 - present, Associate Professor (Three-Year Contract)**  Zhengzhou University, School of Computer Science and Artificial Intelligence, Computer Science and Artificial Intelligence
 
 ### 🎓 Study experience
 - **2021.09 - 2025.11, PhD Candidate** Zhengzhou University, School of Computer Science and Artificial Intelligence, Software Engineering
