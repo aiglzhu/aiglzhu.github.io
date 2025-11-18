@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/?hl=zh-CN).
+Note that: * means "Corresponding Author", ## means "The authors contributed equally". You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/?hl=zh-CN).
 
 ## Journal Papers
 
-(* means "Corresponding Author", ## means "The authors contributed equally")
+
 
 - <font face="Times New Roman"><b>G. Zhu</b>, Y. Li*, S. Du, J. Xu, S. Ding, and M. Xu, "Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach,"</font> <font face="Times New Roman"><i>IEEE Transactions on Mobile Computing</i></font> <font face="Times New Roman">(IEEE TMC), 2025. (Rank: CCF-A)</font>
 - <font face="Times New Roman"><b>G. Zhu</b>, Y. Li*, K. Wang, L. Chen, and M. Xu, "Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services,"</font> <font face="Times New Roman"><i>Science China Information Sciences</i></font> <font face="Times New Roman">(SCIS), 2025. (Rank: CCF-A)</font>
