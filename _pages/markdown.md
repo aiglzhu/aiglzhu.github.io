@@ -11,7 +11,7 @@ redirect_from:
 ## Academic & Work Experiences
 
 ### 🤝 Work experience
-- **2025.12 - present, Associate Professor (Three-Year Contract):**  Zhengzhou University, School of Computer Science and Artificial Intelligence, Computer Science and Artificial Intelligence
+- **2025.12 - present, Associate Professor:**  Zhengzhou University, School of Computer Science and Artificial Intelligence, Computer Science and Artificial Intelligence
 
 ### 🎓 Study experience
 - **2021.09 - 2025.11, PhD:** Zhengzhou University, School of Computer Science and Artificial Intelligence, Software Engineering
