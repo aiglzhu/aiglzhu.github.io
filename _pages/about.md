@@ -165,19 +165,19 @@ News🎉 🎉 🎉
 <div class="research-timeline">
     <div class="timeline-scroll" id="timelineScroll">
         <div class="timeline-item">
-            <h4><span class="fire">🔥</span><span style="color:blue;"><strong>[PhD]</strong></span>  November 2025 - End of Doctoral Studies</h4>
+            <h4><span class="fire">🔥</span><span style="color:blue;"><strong>[PhD Graduation] </strong></span>  November 2025 - End of Doctoral Studies</h4>
             <p>My doctoral journey is drawing to a close, marking not an end, but a magnificent prelude to the next chapter. I look forward to a future brimming with promise, continued academic fulfillment, and a steady stream of meaningful research.</p>
           <p>博士旅程的终点，亦是新征程的起点。愿前路光明，学术之树常青。此后岁月，但问耕耘，静待每一株思想的幼苗，长成它应有的模样。</p>
         </div>
         
         <div class="timeline-item">
-            <h4><span style="color:blue;"><strong>[TMC'25]</strong></span>  October 2025 - Second CCF-A Journal Paper</h4>
+            <h4><span style="color:blue;"><strong>[TMC'25] </strong></span>  October 2025 - Second CCF-A Journal Paper</h4>
             <p>My Second CCF-A journal paper, named <strong>"Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach"</strong>, has been accepted by <span class="journal-name">IEEE Transactions on Mobile Computing (IEEE TMC)</span>.<span class="congrats">Congratulations!</span></p>
             <p>我的第二篇 CCF-A 期刊论文，题为《Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach》，已被中科院一区TOP，CCF-A类期刊《IEEE Transactions on Mobile Computing》接收。恭喜！</p>
         </div>
         
         <div class="timeline-item accepted">
-            <h4><span style="color:blue;"><strong>[SCIS'25]</strong></span>  June 2025 - First CCF-A Journal Paper</h4>
+            <h4><span style="color:blue;"><strong>[SCIS'25] </strong></span>  June 2025 - First CCF-A Journal Paper</h4>
             <p>My first CCF-A journal paper, named <strong>"Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services"</strong>, has been accepted by <span class="journal-name">Science China Information Sciences (SCIS). A good starting!</span>.<span class="congrats">Congratulations!</span></p>
             <p>我的第一篇 CCF-A 期刊论文，题为《Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services》，已被中科院一区TOP，CCF-A类期刊《Science China Information Sciences》接收。好的开始！！！恭喜！</p>
         </div>
