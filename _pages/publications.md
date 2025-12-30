@@ -11,7 +11,7 @@ Note that: * means "Corresponding Author", ## means "The authors contributed equ
 
 
 
-- <font face="Times New Roman"><b>G. Zhu</b>, Y. Li*, S. Du, J. Xu, S. Ding, and M. Xu, "Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach,"</font> <font face="Times New Roman"><i>IEEE Transactions on Mobile Computing</i></font> <font face="Times New Roman">(IEEE TMC), 2025. (Rank: CCF-A)</font>
+- \textcolor{blue}{\textbf{[TMC' 2025]}} <font face="Times New Roman"><b>G. Zhu</b>, Y. Li*, S. Du, J. Xu, S. Ding, and M. Xu, "Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach,"</font> <font face="Times New Roman"><i>IEEE Transactions on Mobile Computing</i></font> <font face="Times New Roman">, 2025. (Rank: CCF-A)</font>
 - <font face="Times New Roman"><b>G. Zhu</b>, Y. Li*, K. Wang, L. Chen, and M. Xu, "Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services,"</font> <font face="Times New Roman"><i>Science China Information Sciences</i></font> <font face="Times New Roman">(SCIS), 2025. (Rank: CCF-A)</font>
 - <font face="Times New Roman">Y. Li*, Y. Pan, <b>G. Zhu</b>, S. He, M. Xu, and J. Xu, "Charging-Aware Task Assignment for Urban Logistics with Electric Vehicles,"</font> <font face="Times New Roman"><i>IEEE Transactions on Knowledge & Data Engineering</i></font> <font face="Times New Roman">(IEEE TKDE), 2025. (Rank: CCF-A)</font>
 - <font face="Times New Roman">Q. Wu, Y. Li*, <b>G. Zhu</b>, B. Mei, J. Xu, and M. Xu, "Prediction-Aware Adaptive Task Assignment for Spatial Crowdsourcing,"</font> <font face="Times New Roman"><i>IEEE Transactions on Mobile Computing</i></font> <font face="Times New Roman">(IEEE TMC), 2024. (Rank: CCF-A)</font>
