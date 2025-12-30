@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now an Associate Professor in the School of Computer Science and Artificial Intelligence, Zhengzhou University [(ZZU)](https://www.zzu.edu.cn/). I obtained my Ph.D degree in [School of Computer Science and Artificial Intelligence](https://www7.zzu.edu.cn/csai/) from [ZZU](https://www.zzu.edu.cn/) in 2025, supervised by Prof. [Yafei Li](https://www7.zzu.edu.cn/csai/info/1354/3155.htm) and Prof. [Mingliang Xu](https://www7.zzu.edu.cn/csai/info/1234/2497.htm). My research interests span the broad area of location-aware service with particular focus on location-based services, human-machine intelligence, visualization, spatiotemporal big data, applied AI&LLM, and unmanned systems. I have published more than 10 technical papers, including IEEE-TKDE, IEEE-ICDE, PVLDB, IEEE-TMC, Science China Information Science, and so on. I have served as a reviewer for IEEE-TKDE, IEEE-ICDE, IEEE-TMC and so on. You can find my CV [here](/files/cv.pdf).
+I am now an Associate Professor in the School of Computer Science and Artificial Intelligence, Zhengzhou University [(ZZU)](https://www.zzu.edu.cn/). I obtained my Ph.D degree in [School of Computer Science and Artificial Intelligence](https://www7.zzu.edu.cn/csai/) from [ZZU](https://www.zzu.edu.cn/) in 2025, supervised by Prof. [Yafei Li](https://www7.zzu.edu.cn/csai/info/1354/3155.htm) and Prof. [Mingliang Xu](https://www7.zzu.edu.cn/csai/info/1234/2497.htm). I am also working for the Intelligent Cluster System Engineering Research Center of the Ministry of Education. My research interests span the broad area of location-aware service with particular focus on location-based services, human-machine intelligence, visualization, spatiotemporal big data, applied AI&LLM, and unmanned systems. I have published more than 10 technical papers in top-tier international journals/conferences, including IEEE-TKDE, IEEE-ICDE, PVLDB, IEEE-TMC, Science China Information Science, and so on. I am serving as a reviewer for IEEE-TKDE, IEEE-ICDE, IEEE-TMC and so on. You can find my CV [here](/files/cv.pdf).
 
 <div class="image-grid" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center; margin: 30px 0;">
   <div class="image-item">
@@ -172,7 +172,7 @@ News🎉 🎉 🎉
         
         <div class="timeline-item">
             <h4><span style="color:blue;"><strong>[TMC'25] </strong></span>  October 2025 - Second CCF-A Journal Paper</h4>
-            <p>My Second CCF-A journal paper, named <strong>"Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach"</strong>, has been accepted by <span class="journal-name">IEEE Transactions on Mobile Computing (IEEE TMC)</span>.<span class="congrats">Congratulations!</span></p>
+            <p>My Second CCF-A journal paper, named <strong>"Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach"</strong>, has been accepted by <span class="journal-name">IEEE Transactions on Mobile Computing</span>.<span class="congrats">Congratulations!</span></p>
             <p>我的第二篇 CCF-A 期刊论文，题为《Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach》，已被中科院一区TOP，CCF-A类期刊《IEEE Transactions on Mobile Computing》接收。恭喜！</p>
         </div>
         
