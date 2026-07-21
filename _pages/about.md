@@ -165,7 +165,7 @@ News🎉 🎉 🎉
 <div class="research-timeline">
     <div class="timeline-scroll" id="timelineScroll">
        <div class="timeline-item">
-            <h4><span style="color:blue;"><strong>[PhD Graduation] </strong></span> July 2026 - Third CCF-A Journal Paper<span class="fire">🔥🔥</span></h4>
+            <h4><span style="color:blue;"><strong>[TKDE'26] </strong></span> July 2026 - CCF-A Journal Paper<span class="fire">🔥🔥</span></h4>
              <p>Our CCF-A journal paper, named <strong>"Auction-Aware Crowdsourced Parcel Assignment for Cooperative Urban Logistics"</strong>, has been accepted by <span class="journal-name">IEEE Transactions on Knowledge and Data Engineering</span>.<span class="congrats">Congratulations!</span></p>
              <p>我们的 CCF-A 期刊论文，题为《Auction-Aware Crowdsourced Parcel Assignment for Cooperative Urban Logistics》，已被中科院一区TOP，CCF-A类期刊《IEEE Transactions on Knowledge and Data Engineering》接收。恭喜！</p>
         </div>
@@ -176,13 +176,13 @@ News🎉 🎉 🎉
         </div>
         
         <div class="timeline-item">
-            <h4><span style="color:blue;"><strong>[TMC'25] </strong></span>  October 2025 - Second CCF-A Journal Paper<span class="fire">🔥🔥</span></h4>
+            <h4><span style="color:blue;"><strong>[TMC'25] </strong></span>  October 2025 - CCF-A Journal Paper<span class="fire">🔥🔥</span></h4>
             <p>Our CCF-A journal paper, named <strong>"Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach"</strong>, has been accepted by <span class="journal-name">IEEE Transactions on Mobile Computing</span>.<span class="congrats">Congratulations!</span></p>
             <p>我们的 CCF-A 期刊论文，题为《Aggregative Online Task Assignment in Spatial Crowdsourcing: An Auction-aware Approach》，已被中科院一区TOP，CCF-A类期刊《IEEE Transactions on Mobile Computing》接收。恭喜！</p>
         </div>
         
         <div class="timeline-item accepted">
-            <h4><span style="color:blue;"><strong>[SCIS'25] </strong></span>  June 2025 - First CCF-A Journal Paper<span class="fire">🔥🔥</span></h4>
+            <h4><span style="color:blue;"><strong>[SCIS'25] </strong></span>  June 2025 - CCF-A Journal Paper<span class="fire">🔥🔥</span></h4>
             <p>Our CCF-A journal paper, named <strong>"Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services"</strong>, has been accepted by <span class="journal-name">Science China Information Sciences. A good starting!</span>.<span class="congrats">Congratulations!</span></p>
             <p>我们的CCF-A 期刊论文，题为《Profit-Aware Online Crowdsensing Task Assignment for Intelligent Transportation Services》，已被中科院一区TOP，CCF-A类期刊《Science China Information Sciences》接收。好的开始！！！恭喜！</p>
         </div>
