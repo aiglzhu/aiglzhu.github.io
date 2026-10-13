@@ -11,7 +11,11 @@ redirect_from:
 ## Academic & Work Experiences
 
 ### 🤝 Work experience
-- **2025.12 - present, Associate Professor:**  Zhengzhou University, School of Computer Science and Artificial Intelligence, Computer Science and Artificial Intelligence
+- **2026.1.22 - present, Associate Professor:**  Zhengzhou University, School of Computer Science and Artificial Intelligence, Computer Science and Artificial Intelligence
+- <font face="楷体">2026.1.22 - 至今， 初聘副教授，郑州大学，计算机与人工智能学院，人工智能系</font>
+- **2025.12.26 - present, Postdoctoral Fellow:**  Zhengzhou University, School of Computer Science and Artificial Intelligence, Software Engineering Postdoctoral Research Station, Cooperating Mentor: Xu Mingliang
+- <font face="楷体">2025.12.26 - 至今， 博士后，郑州大学，计算机与人工智能学院，软件工程博士后流动站，合作导师：徐明亮</font>
+
 
 ### 🎓 Study experience
 - **2021.09 - 2025.11, PhD:** Zhengzhou University, School of Computer Science and Artificial Intelligence, Software Engineering
